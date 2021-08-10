@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Luneblaze</string>
+    <string name="first">User performed this Activity</string>
+    <string name="sample">Sample text Sample text Sample text Sample text Sample</string>
+    <string name="sub">Sub user</string>
+    <string name="main">Main user</string>
+</resources>
